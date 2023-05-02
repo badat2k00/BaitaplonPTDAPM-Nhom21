@@ -1,5 +1,8 @@
-# CongNghePhanMem-60TH4.2-Nhom18
+# Phát triển dự án phần mềm 
+Nhóm 21 Nguyễn Bá Đạt 1851061406
+
 Web được viết theo mô hình MVC
+
 // Các bảng trong db
 
 `accounts` (`id`, `username`, `password`, `level`, `token`, `name`, `phone`)
